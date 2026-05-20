@@ -6,10 +6,9 @@ My current technical focus is practical software: machine learning workflows, en
 
 ## Featured Work
 
-- **Polymer degradation pathway prediction**: a Python machine learning pipeline for molecular descriptor curation, feature engineering, validation, uncertainty analysis, and model selection.
-- **SoilStack and Holganix integrations**: applied data workflows for field data, geospatial inputs, API integration, and reporting.
-- **Rust utilities**: command-line tools focused on performance, interaction design, and systems programming practice.
-- **Reporting and web tooling**: JavaScript projects that turn operational data into easier-to-review interfaces.
+- **[Polymer degradation pathway prediction](https://github.com/zmanna/polymer-degradation-pathway-prediction)**: a Python machine learning pipeline for molecular descriptor curation, feature engineering, validation, uncertainty analysis, and model selection.
+- **[SoilStack Holganix platform exploration](https://github.com/zmanna/soilstack-holganix-platform)**: applied field-data work with GeoJSON inputs, API helpers, configuration code, and tests.
+- **[Rapid Math](https://github.com/zmanna/rapid-math)**: a Rust command-line tool for fast arithmetic practice and systems programming fundamentals.
 
 ## Technical Areas
 
@@ -27,6 +26,6 @@ My repositories now use clearer naming and labeling conventions:
 - `machine-learning` and `data-science`: notebooks, model pipelines, and analysis projects
 - `rust`, `python`, `javascript`, `c`, and `cpp`: language-specific work
 
-Coursework and early learning repositories are archived so the active profile stays focused on stronger technical projects.
+Coursework and early learning repositories are archived/private so the public profile stays focused on stronger technical projects.
 
 The next documentation pass will add deeper formal docs to active projects, including architecture notes, setup guides, examples, screenshots, and testing instructions.
