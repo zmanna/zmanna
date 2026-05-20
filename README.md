@@ -8,6 +8,7 @@ My current technical focus is practical software: machine learning workflows, en
 
 - **[Polymer degradation pathway prediction](https://github.com/zmanna/polymer-degradation-pathway-prediction)**: a Python machine learning pipeline for molecular descriptor curation, feature engineering, validation, uncertainty analysis, and model selection.
 - **[Vapor](https://github.com/zmanna/Vapor)**: a collaborative Rust game launcher project where I contributed to writing, architecture planning, launcher design, and integration direction.
+- **[Melanoma model capstone](https://github.com/zmanna/melanoma_model)**: a collaborative EECS 582 machine learning capstone where I served as team lead for artifact coordination, deadline readiness, and supervisor communication.
 - **[Rapid Math](https://github.com/zmanna/rapid-math)**: a Rust command-line tool for fast arithmetic practice and systems programming fundamentals.
 - **Private applied integration work**: field-data API integrations, GeoJSON processing, reporting workflows, and operational automation maintained privately because they involve company-specific systems.
 
