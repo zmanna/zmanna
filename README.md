@@ -6,7 +6,7 @@ My current technical focus is practical software: machine learning workflows, en
 
 ## Featured Work
 
-- **QSAR biodegradation modeling**: a Python machine learning pipeline for dataset curation, feature engineering, validation, uncertainty analysis, and model selection.
+- **Polymer degradation pathway prediction**: a Python machine learning pipeline for molecular descriptor curation, feature engineering, validation, uncertainty analysis, and model selection.
 - **SoilStack and Holganix integrations**: applied data workflows for field data, geospatial inputs, API integration, and reporting.
 - **Rust utilities**: command-line tools focused on performance, interaction design, and systems programming practice.
 - **Reporting and web tooling**: JavaScript projects that turn operational data into easier-to-review interfaces.
